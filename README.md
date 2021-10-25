@@ -1,8 +1,3 @@
-
-# Kimoby Test for Ion Mocan
-
-  
-
 #### Problem 2
 
 If you want to create new words of any length using different two word combinations, do the following:
